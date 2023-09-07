@@ -2,7 +2,7 @@
 
 Here I will describe everything I study and do in order to become a better software engineer. The goal is to look back and see how much I have improved
 
-### Sep 07, 2023:
+#### Sep 07, 2023:
 
 Currently learning C. I am struggling with pointers right now. I understand what they do and what, but it is confusing to understand when to use them and how to use them properly. For now, i am trying to implement some basic functions using them.
 
