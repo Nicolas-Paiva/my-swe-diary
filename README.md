@@ -10,7 +10,7 @@ Currently learning C. I am struggling with pointers right now. I understand what
 
 As for other subjects, I am learning some "Computer Systems" which is related to the architecture of computers and how they work.
 
-Linear Algebra is also another subject I am currently studying. Learning matrices for now.
+Linear Algebra is also another subject I am currently studying. Learning matrices for now
 
 
 
