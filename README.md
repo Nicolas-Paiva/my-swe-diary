@@ -26,3 +26,7 @@ I could not really focus recently because of some problems... But I think things
 #### Sep 24th, 2023:
 
 Sadly I could not really study for the last 10 days or so. I need to work a little bit more, but in October things will get back to normal. Hopefully I will understand more about programming as well as linear algebra and computer systems
+
+#### Sep 25th, 2023:
+
+Getting back to my studies... Felt super sleepy today and could not study as much as I wanted, but ended up learning some linear algebra (determinants and their properties) and I am also starting to learn about file handling in C.
