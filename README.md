@@ -29,4 +29,4 @@ Sadly I could not really study for the last 10 days or so. I need to work a litt
 
 #### Sep 25th, 2023:
 
-Getting back to my studies... Felt super sleepy today and could not study as much as I wanted, but ended up learning some linear algebra (determinants and their properties) and I am also starting to learn about file handling in C.
+Getting back to my studies... Felt super sleepy today and could not study as much as I wanted, but ended up learning some linear algebra (determinants and their properties) and I am also starting to learn about file handling in C...
