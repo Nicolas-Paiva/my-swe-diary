@@ -39,3 +39,7 @@ Getting back to my studies... Felt super sleepy today and could not study as muc
 ### Oct 17th, 2023:
 
 After a while without writing anything (I had to work during the week and also had that awful trip) I am getting back to my studies, and I am motivated. Since I got back I studied Linear Algebra, Computing Systems and some C. Let's do it!
+
+### Oct 19th, 2023:
+
+Today I practiced a lot of C. I have some assignments to complete and I am struggling a lot, not gonna lie. However, the good thing is, I think I have improced my problem-solving skills at least a little. Let's keep going!
