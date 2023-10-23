@@ -43,3 +43,7 @@ After a while without writing anything (I had to work during the week and also h
 ### Oct 19th, 2023:
 
 Today I practiced a lot of C. I have some assignments to complete and I am struggling a lot, not gonna lie. However, the good thing is, I think I have improced my problem-solving skills at least a little. Let's keep going!
+
+### Oct 23rd, 2023:
+
+I have been doing the same, practicing Linear Algebra, doing some C programming assignments and so on, but I need to learn a little bit more about Computer Systems and Multimedia because I have not studied much about those subjects.
