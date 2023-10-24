@@ -6,7 +6,7 @@ Here I will describe everything I study and do in order to become a better softw
 
 #### Sep 07th, 2023:
 
-Currently learning C. I am struggling with pointers right now. I understand what they do and what, but it is confusing to understand when to use them and how to use them properly. For now, i am trying to implement some basic functions using them.
+Currently learning C. I am struggling with pointers right now. I understand what they do and what they are, but it is confusing to understand when to use them and how to use them properly. For now, i am trying to implement some basic functions using them.
 
 As for other subjects, I am learning some "Computer Systems" which is related to the architecture of computers and how they work.
 
@@ -46,4 +46,4 @@ Today I practiced a lot of C. I have some assignments to complete and I am strug
 
 ### Oct 23rd, 2023:
 
-I have been doing the same, practicing Linear Algebra, doing some C programming assignments and so on, but I need to learn a little bit more about Computer Systems and Multimedia because I have not studied much about those subjects.
+I have been doing the same, practicing Linear Algebra, doing some C programming assignments and so on, but I need to learn a little bit more about Computer Systems and Multimedia because I have not studied much about those subjects..
