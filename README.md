@@ -47,3 +47,7 @@ Today I practiced a lot of C. I have some assignments to complete and I am strug
 ### Oct 23rd, 2023:
 
 I have been doing the same, practicing Linear Algebra, doing some C programming assignments and so on, but I need to learn a little bit more about Computer Systems and Multimedia because I have not studied much about those subjects..
+
+### Oct 23rd, 2023:
+
+Today I am studying a little bit of Ethics and later I am going to study more programming. At Uni, I have to learn recursion one more. It is too complex, but I want to understand this concept.
