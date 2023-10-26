@@ -36,18 +36,28 @@ Sadly I could not really study for the last 10 days or so. I need to work a litt
 
 Getting back to my studies... Felt super sleepy today and could not study as much as I wanted, but ended up learning some linear algebra (determinants and their properties) and I am also starting to learn about file handling in C...
 
+
 ### Oct 17th, 2023:
 
 After a while without writing anything (I had to work during the week and also had that awful trip) I am getting back to my studies, and I am motivated. Since I got back I studied Linear Algebra, Computing Systems and some C. Let's do it!!
+
 
 ### Oct 19th, 2023:
 
 Today I practiced a lot of C. I have some assignments to complete and I am struggling a lot, not gonna lie. However, the good thing is, I think I have improced my problem-solving skills at least a little. Let's keep going!
 
+
 ### Oct 23rd, 2023:
 
 I have been doing the same, practicing Linear Algebra, doing some C programming assignments and so on, but I need to learn a little bit more about Computer Systems and Multimedia because I have not studied much about those subjects..
 
-### Oct 23rd, 2023:
+
+### Oct 24th, 2023:
 
 Today I am studying a little bit of Ethics and later I am going to study more programming. At Uni, I have to learn recursion one more. It is too complex, but I want to understand this concept.
+
+
+### Oct 26th, 2023:
+
+I have been trying to make some progress with my skills in C. I feel like I am making some progress at least. I know that I know nothing LOL, but this is how it is, if I really want to achieve something in this field, I have to start from the basics, and this is what I have been doing.
+
