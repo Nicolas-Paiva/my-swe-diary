@@ -54,7 +54,7 @@ I have been doing the same, practicing Linear Algebra, doing some C programming 
 
 ### Oct 24th, 2023:
 
-Today I am studying a little bit of Ethics and later I am going to study more programming. At Uni, I have to learn recursion one more. It is too complex, but I want to understand this concept.
+Today I am studying a little bit of Ethics and later I am going to study more programming. At Uni, I have to learn recursion one more. It is too complex, but I want to understand this concept..
 
 
 ### Oct 26th, 2023:
