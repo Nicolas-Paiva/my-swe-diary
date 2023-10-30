@@ -61,3 +61,6 @@ Today I am studying a little bit of Ethics and later I am going to study more pr
 
 I have been trying to make some progress with my skills in C. I feel like I am making some progress at least. I know that I know nothing LOL, but this is how it is, if I really want to achieve something in this field, I have to start from the basics, and this is what I have been doing.
 
+### Oct 30th, 2023:
+
+Another week is starting and I have to practice more Linear Algebra. I am enjoying the C programming part of the course, but linear algebra and computer systems are pretty difficult for me right now
