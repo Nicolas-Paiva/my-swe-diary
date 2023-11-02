@@ -59,7 +59,7 @@ Today I am studying a little bit of Ethics and later I am going to study more pr
 
 ### Oct 26th, 2023:
 
-I have been trying to make some progress with my skills in C. I feel like I am making some progress at least. I know that I know nothing LOL, but this is how it is, if I really want to achieve something in this field, I have to start from the basics, and this is what I have been doing.
+I have been trying to make some progress with my skills in C. I feel like I am making some progress at least. I know that I know nothing LOL, but this is how it is, if I really want to achieve something in this field, I have to start from the basics, and this is what I have been doing...
 
 ### Oct 30th, 2023:
 
