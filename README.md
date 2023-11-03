@@ -63,4 +63,8 @@ I have been trying to make some progress with my skills in C. I feel like I am m
 
 ### Oct 30th, 2023:
 
-Another week is starting and I have to practice more Linear Algebra. I am enjoying the C programming part of the course, but linear algebra and computer systems are pretty difficult for me right now
+Another week is starting and I have to practice more Linear Algebra. I am enjoying the C programming part of the course, but linear algebra and computer systems are pretty difficult for me right now.
+
+### Nov 3, 2023:
+
+I have already submitted my assignment for Computer Ethics, and I am currently working on the Linear Algebra as well as the Computer Systems one. I am also trying to practice at least a little bit of C programming everyday.
