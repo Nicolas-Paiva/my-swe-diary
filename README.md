@@ -68,3 +68,7 @@ Another week is starting and I have to practice more Linear Algebra. I am enjoyi
 ### Nov 3, 2023:
 
 I have already submitted my assignment for Computer Ethics, and I am currently working on the Linear Algebra as well as the Computer Systems one. I am also trying to practice at least a little bit of C programming everyday.
+
+### Nov 7, 2023:
+
+I am not going to lie... Some times I think about giving up, even though I am just getting started, but that's because I am struggling a lot with math and also because I am having personal problems with my family and my ex.
