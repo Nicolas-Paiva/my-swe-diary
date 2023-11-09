@@ -71,4 +71,4 @@ I have already submitted my assignment for Computer Ethics, and I am currently w
 
 ### Nov 7, 2023:
 
-I am not going to lie... Some times I think about giving up, even though I am just getting started, but that's because I am struggling a lot with math and also because I am having personal problems with my family and my ex.
+I am not going to lie... Some times I think about giving up, even though I am just getting started, but that's because I am struggling a lot with math and also because I am having personal problems with my family and my ex..
