@@ -71,4 +71,8 @@ I have already submitted my assignment for Computer Ethics, and I am currently w
 
 ### Nov 7, 2023:
 
-I am not going to lie... Some times I think about giving up, even though I am just getting started, but that's because I am struggling a lot with math and also because I am having personal problems with my family and my ex..
+I am not going to lie... Some times I think about giving up, even though I am just getting started, but that's because I am struggling a lot with math and also because I am having personal problems with my family...
+
+### Nov 10, 2023:
+
+My relationship has officially ended. I know this is not the right place to write about this, but this has impacted my stuides a lot. Although this happened, I managed to learn merge sort and I really enjoyed it. I am also taking a look at binary search right now. Let's do it!
