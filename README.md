@@ -65,14 +65,18 @@ I have been trying to make some progress with my skills in C. I feel like I am m
 
 Another week is starting and I have to practice more Linear Algebra. I am enjoying the C programming part of the course, but linear algebra and computer systems are pretty difficult for me right now...
 
-### Nov 3, 2023:
+### Nov 3rd, 2023:
 
 I have already submitted my assignment for Computer Ethics, and I am currently working on the Linear Algebra as well as the Computer Systems one. I am also trying to practice at least a little bit of C programming everyday.
 
-### Nov 7, 2023:
+### Nov 7th, 2023:
 
 I am not going to lie... Some times I think about giving up, even though I am just getting started, but that's because I am struggling a lot with math and also because I am having personal problems with my family..
 
 ### Nov 10, 2023:
 
 My relationship has officially ended. I know this is not the right place to write about this, but this has impacted my stuides a lot. Although this happened, I managed to learn merge sort and I really enjoyed it. I am also taking a look at binary search right now. Let's do it!
+
+### Nov 12th, 2023:
+
+Another week is about to begin. I am sending my Linear Algebra assignment as well as the computer systems one... I hope I can get some good grades. May God be with me in this journey.
