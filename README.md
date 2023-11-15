@@ -80,3 +80,7 @@ My relationship has officially ended. I know this is not the right place to writ
 ### Nov 12th, 2023:
 
 Another week is about to begin. I am sending my Linear Algebra assignment as well as the computer systems one... I hope I can get some good grades. May God be with me in this journey. I am now back to studying some C programming, but I had completely forgotten about multimedia systems... I must study a little bit as well.
+
+### Nov 15th, 2023:
+
+I have been mostly practicing C (preparing for my first real assignment), but I also have to keep reading the book about multimedia systems because I already have an assignment to do. Also, I have to get back to Linear Algebra since the next assignment is about some really hard stuff... May God be with me along this journey.
