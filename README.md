@@ -84,3 +84,8 @@ Another week is about to begin. I am sending my Linear Algebra assignment as wel
 ### Nov 15th, 2023:
 
 I have been mostly practicing C (preparing for my first real assignment), but I also have to keep reading the book about multimedia systems because I already have an assignment to do. Also, I have to get back to Linear Algebra since the next assignment is about some really hard stuff... May God be with me along this journey...
+
+### Nov 19th, 2023:
+
+Another week is about to begin, my goal is to study more C, learn some Linear Algebra and Computer Systems as well.
+
