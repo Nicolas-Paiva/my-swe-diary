@@ -75,7 +75,7 @@ I am not going to lie... Some times I think about giving up, even though I am ju
 
 ### Nov 10, 2023:
 
-My relationship has officially ended. I know this is not the right place to write about this, but this has impacted my stuides a lot. Although this happened, I managed to learn merge sort and I really enjoyed it. I am also taking a look at binary search right now. Let's do it!
+My relationship has officially ended. I know this is not the right place to write about this, but this has impacted my stuides a lot. Although this happened, I managed to learn merge sort and I really enjoyed it. I am also taking a look at binary search right now. Let's do it!!
 
 ### Nov 12th, 2023:
 
