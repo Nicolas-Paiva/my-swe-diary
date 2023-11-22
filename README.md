@@ -79,7 +79,7 @@ My relationship has officially ended. I know this is not the right place to writ
 
 ### Nov 12th, 2023:
 
-Another week is about to begin. I am sending my Linear Algebra assignment as well as the computer systems one... I hope I can get some good grades. May God be with me in this journey. I am now back to studying some C programming, but I had completely forgotten about multimedia systems... I must study a little bit as well.
+Another week is about to begin. I am sending my Linear Algebra assignment as well as the computer systems one... I hope I can get some good grades. May God be with me in this journey. I am now back to studying some C programming, but I had completely forgotten about multimedia systems... I must study a little bit as well...
 
 ### Nov 15th, 2023:
 
