@@ -92,3 +92,7 @@ Another week is about to begin, my goal is to study more C, learn some Linear Al
 ### Nov 26th, 2023:
 
 This week I will be mostly working on my C assignment which is REALLY difficult. I hope I manage to get a good grade, not because I want a good grade, but because I WANT TO BECOME A FKNG ENGINEER!!!
+
+### Dec 1st, 2023:
+
+I decided to get back to my Web Development studies. I think it will be better if I really focus on skills that can give me job opportunities. As for the university subjects, they will remain important, and they will provide me the Computer Science foundations that I need, but I need to be employable.
