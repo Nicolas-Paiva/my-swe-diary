@@ -107,6 +107,6 @@ I decided to get back to my Web Development studies... I think it will be better
 Another week is about to begin. My goals are to learn a bit more Linear Algebra, learn more C and also study for other subjects. As for my web development studies, I am still revising some CSS, and as soon as I am done, I will practice creating some static websites. I intend to finish revising CSS this week!!!
 
 
-## Dec 3rd, 2023:
+## Dec 6th, 2023:
 
-Well, it's my birthday, but I still want to code! Let's achieve that dream!
+Well, it's my birthday, but I still want to code! I am going to achieve this dream!! Today I started to learn the basics of C structures, which is a good introduction to OOP. But let's keep going, let's study more!!!
