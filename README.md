@@ -109,4 +109,4 @@ Another week is about to begin. My goals are to learn a bit more Linear Algebra,
 
 ## Dec 6th, 2023:
 
-Well, it's my birthday, but I still want to code! I am going to achieve this dream!! Today I started to learn the basics of C structures, which is a good introduction to OOP. But let's keep going, let's study more!!!
+Well, it's my birthday, but I still want to code! I am going to achieve this dream!! Today I started to learn the basics of C structures, which is a very interesting topic. I cannot wait to learn more!
