@@ -110,3 +110,7 @@ Another week is about to begin. My goals are to learn a bit more Linear Algebra,
 ## Dec 6th, 2023:
 
 Well, it's my birthday, but I still want to code! I am going to achieve this dream!! Today I started to learn the basics of C structures, memory management, pointers and some other interesting stuff!!!
+
+## Dec 11th, 2023:
+
+Another week has begun. This week I plan to finish reviewing CSS and begin practicing with some projects. Aside from that, I will also study C.
