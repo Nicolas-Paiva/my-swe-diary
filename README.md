@@ -113,4 +113,4 @@ Well, it's my birthday, but I still want to code! I am going to achieve this dre
 
 ## Dec 11th, 2023:
 
-Another week has begun. This week I plan to finish reviewing CSS and begin practicing with some projects. Aside from that, I will also study C.
+Another week has begun. This week I plan to finish reviewing CSS and begin practicing with some projects. Aside from that, I will also study C...
