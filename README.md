@@ -117,4 +117,4 @@ Another week has begun. This week I plan to finish reviewing CSS and begin pract
 
 ## Dec 14th, 2023:
 
-So I have finished "reviewing" some CSS. Right now I am working on a simple C project for a shopping list as well as on the "Simply Recipes" project made by John Smilga. My goal is to become a little more comfortable with CSS (especially regarding the media queries) and after that, I will probably try to work on some web pages in order to really get the hang of it.
+So I have finished "reviewing" some CSS. Right now I am working on a simple C project for a shopping list as well as on the "Simply Recipes" project made by John Smilga. My goal is to become a little more comfortable with CSS (especially regarding the media queries) and after that, I will probably try to work on some web pages in order to really get the hang of it...
