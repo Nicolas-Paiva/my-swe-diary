@@ -121,4 +121,4 @@ So I have finished "reviewing" some CSS. Right now I am working on a simple C pr
 
 ## Dec 16th, 2023:
 
-The weekend is arriving. The week was good when it comes to my studies. I could learn more Linear Algebra, learned a bit more of C by building a simple project. I have also finished reviewing CSS basics and right now I am following a tutorial project
+The weekend is arriving. The week was good when it comes to my studies. I could learn more Linear Algebra, learned a bit more of C by building a simple project. I have also finished reviewing CSS basics and right now I am following a tutorial project.
