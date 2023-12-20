@@ -125,4 +125,4 @@ The weekend is arriving. The week was good when it comes to my studies. I could 
 
 ## Dec 18th, 2023:
 
-I will be finishing the tutorial project this week, so I am also going to start applying the skills I acquired. After some months practicing CSS I will probably learn JS or Java...
+I have decided to start practicing with some projects rather than just watching tutorials (for the front-end) so I am using HTML and CSS to create some static pages, as for the back-end, I am going to watch a tutorial to learn Java, which will be my choice for the backend
