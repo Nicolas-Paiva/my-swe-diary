@@ -126,3 +126,7 @@ The weekend is arriving. The week was good when it comes to my studies. I could 
 ## Dec 18th, 2023:
 
 I have decided to start practicing with some projects rather than just watching tutorials (for the front-end) so I am using HTML and CSS to create some static pages, as for the back-end, I am going to watch a tutorial to learn Java, which will be my choice for the backend
+
+## Dec 21th, 2023:
+
+I have started learning Java for real now, and it looks super cool! I cannot wait to have a good grasp of the basics in order to start creating my first real programs!
