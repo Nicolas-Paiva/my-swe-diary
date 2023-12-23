@@ -129,4 +129,4 @@ I have decided to start practicing with some projects rather than just watching 
 
 ## Dec 21th, 2023:
 
-I have started learning Java for real now, and it looks super cool! I cannot wait to have a good grasp of the basics in order to start creating my first real programs!!
+I have started learning Java for real now, and it looks super cool! I cannot wait to have a good grasp of the basics in order to start creating my first real programs!!!
