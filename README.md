@@ -133,4 +133,4 @@ I have started learning Java for real now, and it looks super cool! I cannot wai
 
 ## Dec 24th, 2023:
 
-It's almost Christmas, but I still want to code.. I will soon set me goals/roadmap for the next year!
+It's almost Christmas, but I still want to code.. I will soon set me goals/roadmap for the next year!!
