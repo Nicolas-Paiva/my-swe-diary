@@ -14,7 +14,7 @@ Linear Algebra is also another subject I am currently studying. Learning matrice
 
 #### Sep 12th, 2023:
 
-I could not really write here since the last time because my life is  a little busy right now. I have been studying mostly C (pointers are really hard to understand, but I am gonna understand it!), Computer Systems and Linear Algebra. I have not found material for Ethics and Multimedia Systems. As soon as I have some resources I will study them as well. 
+I could not really write here since the last time because my life is  a little busy right now. I have been studying mostly C (pointers are really hard to understand, but I am gonna understand it!), Computer Systems and Linear Algebra. I have not found material for Ethics and Multimedia Systems. As soon as I have some resources I will study them as well...
 
 
 #### Sep 21st, 2023:
