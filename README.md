@@ -138,3 +138,12 @@ It's almost Christmas, but I still want to code... I will soon set me goals/road
 ## Dec 28th, 2023:
 
 We are heading towards the end of the year. Although I have not achieved everything I wanted to achieve, I am happy with some of the progress that I've made. I have come to realise that not only in programming, but in life in general, we cannot have everything at once. Now, this is a Software Engineer Diary, so it does not really make sense to talk about stuff that's not related to Software Engineering or CS, but it is impossible to say that my studies/career are not affected by my personal life. I have not had time to create a proper plan for 2024, but I will come up with one soon!!
+
+## January 1st, 2024:
+
+As expected, in my SWE diary, there will only be goals related to Computer Science and Software Engineering. My goals for the year are:
+
+1. Getting comfortable with different programming paradigms, especially OOP.
+2. Learning important Data Structures and Algorithms.
+3. Learning the basics of backend web development and getting some knowledge in the front-end.
+4. Create at least one "nice" project
