@@ -111,33 +111,41 @@ Another week is about to begin. My goals are to learn a bit more Linear Algebra,
 
 Well, it's my birthday, but I still want to code! I am going to achieve this dream!! Today I started to learn the basics of C structures, memory management, pointers and some other interesting stuff!!!
 
+
 ## Dec 11th, 2023:
 
 Another week has begun. This week I plan to finish reviewing CSS and begin practicing with some projects. Aside from that, I will also study C...
+
 
 ## Dec 14th, 2023:
 
 So I have finished "reviewing" some CSS. Right now I am working on a simple C project for a shopping list as well as on the "Simply Recipes" project made by John Smilga. My goal is to become a little more comfortable with CSS (especially regarding the media queries) and after that, I will probably try to work on some web pages in order to really get the hang of it...
 
+
 ## Dec 16th, 2023:
 
 The weekend is arriving. The week was good when it comes to my studies. I could learn more Linear Algebra, learned a bit more of C by building a simple project. I have also finished reviewing CSS basics and right now I am following a tutorial project.
+
 
 ## Dec 18th, 2023:
 
 I have decided to start practicing with some projects rather than just watching tutorials (for the front-end) so I am using HTML and CSS to create some static pages, as for the back-end, I am going to watch a tutorial to learn Java, which will be my choice for the backend
 
+
 ## Dec 21th, 2023:
 
 I have started learning Java for real now, and it looks super cool! I cannot wait to have a good grasp of the basics in order to start creating my first real programs!!!
+
 
 ## Dec 24th, 2023:
 
 It's almost Christmas, but I still want to code... I will soon set me goals/roadmap for the next year!!!
 
+
 ## Dec 28th, 2023:
 
 We are heading towards the end of the year. Although I have not achieved everything I wanted to achieve, I am happy with some of the progress that I've made. I have come to realise that not only in programming, but in life in general, we cannot have everything at once. Now, this is a Software Engineer Diary, so it does not really make sense to talk about stuff that's not related to Software Engineering or CS, but it is impossible to say that my studies/career are not affected by my personal life. I have not had time to create a proper plan for 2024, but I will come up with one soon!!
+
 
 ## January 1st, 2024:
 
@@ -147,3 +155,8 @@ As expected, in my SWE diary, there will only be goals related to Computer Scien
 2. Learning important Data Structures and Algorithms.
 3. Learning the basics of backend web development and getting some knowledge in the front-end.
 4. Create at least one "nice" project
+
+
+## January 2nd, 2024:
+
+I have started learning some DSA through coursera free DSA course.
