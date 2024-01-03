@@ -159,4 +159,4 @@ As expected, in my SWE diary, there will only be goals related to Computer Scien
 
 ## January 2nd, 2024:
 
-I have started learning some DSA through coursera free DSA course.
+I have started learning some DSA through coursera free DSA course. Unfortunately though, I will not be able to focus too much on it right now because I have some university stuff I need to do first.
