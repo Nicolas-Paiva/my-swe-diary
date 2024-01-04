@@ -160,3 +160,8 @@ As expected, in my SWE diary, there will only be goals related to Computer Scien
 ## January 2nd, 2024:
 
 I have started learning some DSA through coursera free DSA course. Unfortunately though, I will not be able to focus too much on it right now because I have some university stuff I need to do first.
+
+
+## January 4th, 2024:
+
+Unfortunately, I need to take a break from programming for a while because I have some assignments related to other subjects to submit within the next weeks. I will code as much as possible though. I also have to get back to some C coding since I will have an assignment soon.
