@@ -165,3 +165,8 @@ I have started learning some DSA through coursera free DSA course. Unfortunately
 ## January 4th, 2024:
 
 Unfortunately, I need to take a break from programming for a while because I have some assignments related to other subjects to submit within the next weeks. I will code as much as possible though. I also have to get back to some C coding since I will have an assignment soon.
+
+
+## January 4th, 2024:
+
+O have already "finished" my Linear Algebra, Ethics and Multimedia Systems assignments. I only need to finish Computer Systems and wait for IP now.
