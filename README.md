@@ -169,4 +169,4 @@ Unfortunately, I need to take a break from programming for a while because I hav
 
 ## January 4th, 2024:
 
-O have already "finished" my Linear Algebra, Ethics and Multimedia Systems assignments. I only need to finish Computer Systems and wait for IP now.
+I have already "finished" my Linear Algebra, Ethics and Multimedia Systems assignments. I only need to finish Computer Systems and wait for IP now.
