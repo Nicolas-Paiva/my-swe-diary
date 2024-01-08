@@ -170,3 +170,8 @@ Unfortunately, I need to take a break from programming for a while because I hav
 ## January 4th, 2024:
 
 I have already "finished" my Linear Algebra, Ethics and Multimedia Systems assignments. I only need to finish Computer Systems and wait for IP now...
+
+
+## January 8th, 2024:
+
+Another week is starting, and January is going to be a tough month. I will have my final exams soon so I will have to focus on other subjects, which means I am not gonna be able to program as much as I wanted to. But in any case, I will still try to program as much as possible.
