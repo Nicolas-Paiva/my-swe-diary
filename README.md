@@ -174,4 +174,4 @@ I have already "finished" my Linear Algebra, Ethics and Multimedia Systems assig
 
 ## January 8th, 2024:
 
-Another week is starting, and January is going to be a tough month. I will have my final exams soon so I will have to focus on other subjects, which means I am not gonna be able to program as much as I wanted to. But in any case, I will still try to program as much as possible.
+Another week is starting, and January is going to be a tough month. I will have my final exams soon so I will have to focus on other subjects, which means I am not gonna be able to program as much as I wanted to. But in any case, I will still try to program as much as possible. Today I also practiced C a bit more again because I have to get prepared for my assignment and exams.
